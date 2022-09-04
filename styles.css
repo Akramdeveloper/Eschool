@@ -1,0 +1,41 @@
+header{
+    height: 450px;
+    width: 100%;
+    background-color: #f0fff0;
+    
+}
+nav{
+    float: right;
+}
+a img{
+    padding: 15px;
+}
+button{
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+    border: 0;
+    width: 104px;
+    height: 43px;
+}
+.row{
+    justify-content: center;
+}
+.col-md-5 img{
+    height: 200px;
+}
+h3{
+    font-family: poppins;
+}
+.container{
+   padding-top: 10px;
+}
+.card-group{
+    padding-top: 30px;
+} 
+.card-body{
+    text-align: center;
+}
+.courses{
+    text-align: center;
+    padding-top: 30px;
